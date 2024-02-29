@@ -1,2 +1,2 @@
 # MDE4QA
-Model-driven Engineering for Quantum Algorithms
+Model-driven Engineering for Quantum Programming
